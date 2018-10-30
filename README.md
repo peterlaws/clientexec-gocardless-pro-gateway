@@ -8,5 +8,6 @@ The past (old defunct API) plugin I did was free. The decision to charge for thi
 There are three price schemes, an owned version where you can pay once and you own the licence, and the other two are a monthly leased license payment where you get unlimited updates and 16 hours (9am to 12am UK time) a day ticket and
 [Discord](https://discord.gg/EjJdn7U)/[Forum](https://www.picklessoftware.co.uk/forums) support.
 
-For more information, [Visit Pickles Software](https://www.picklessoftware.co.uk/clientexec-gocardless-gateway-plugin.php)
+**Note:** This is a third-party gateway, you should contact Pickles Software directly for any questions and support, please refrain from contacting Clientexec themselves. Thank you.
 
+For more information, [Visit Pickles Software](https://www.picklessoftware.co.uk/clientexec-gocardless-gateway-plugin.php)
