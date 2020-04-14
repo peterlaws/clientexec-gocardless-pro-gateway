@@ -1,6 +1,8 @@
 Clientexec GoCardless Gateway Plugin for the Pro Basic API
 ==========================================================
 
+**Version Update: I am updating the plugin for international payments and based businesses, please check back regulary** 
+
 You can now provide Direct Debit as a payment option for your business using the Clientexec GoCardless Gateway Plugin. Simple, digital, powerful. Scroll down for more details of its features.
 
 The past (old defunct API) plugin I did was free. The decision to charge for this new version due to on how much work was put into it. This version is ten times better than the old version, you and your clients can do everything inside of Clientexec, from creating mandates to retrying and cancelling payments.
