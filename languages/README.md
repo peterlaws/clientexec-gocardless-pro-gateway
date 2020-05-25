@@ -11,8 +11,9 @@ These are the current languages Clientexec supports, it may add new languages in
 
 If you wish to translate this to another language, copy and rename the file language.en.php eg. for Spanish, rename to language.es.php.
 
-Then edit the lines after the =>, do not edit the first lines before the =>
+Then edit the lines after the =>, do not edit the first lines before the =>  
+You'll see lots of %s, these need to be present, I have put what each %s means in the language.en.php file.
 
-Whenever there's special characters for languages, you must save the file with UNICODE UTF-8
+Whenever there's special characters for languages, you must save the file with **UNICODE UTF-8**
 
 If you wish to help, mail me at gocardless-plugin@picklessoftware.co.uk
