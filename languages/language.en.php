@@ -379,6 +379,10 @@ $lang = array (
 =>
 'Payouts',
 
+'Payout FX Rate Confirmed'
+=>
+'Payout FX Rate Confirmed',
+
 'Pending to be requested from your bank.'
 =>
 'Pending to be requested from your bank.',
